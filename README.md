@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate on new stuffs and learning some n
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## 📈 GitHub Stats
-
+<script src="https://unpkg.com/stata-embed@2.1.1/stata-embed.min.js"></script>
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sivakavinesh&show_icons=true&theme=radical)
 
 ## 🌟 Featured Projects
