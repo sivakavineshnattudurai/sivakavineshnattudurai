@@ -1,14 +1,14 @@
 # 👋 Hello, I'm Sivakavinesh!
 
-Welcome to my GitHub profile! I'm a passionate on new stuffs with a keen interest in developing. Here, you can find my projects, contributions, and more about me.
+Welcome to my GitHub profile! I'm a passionate on new stuffs and learning some new tools with a keen interest in developing. Here, you can find my projects, contributions, and more about me.
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on building a website using MERN.
-- 🌱 I’m learning MERN, typerscript, flutter.
-- 👯 I’m looking to collaborate on [Type of Projects/Technologies].
-- 📫 How to reach me: Sivakavineshnattudurai@gmail.com.
-- ⚡ Fun fact: [A Fun Fact About You].
+- 🔭 I’m currently working on building a website using MERN stack.
+- 🌱 Future Goals to learn MERN, typerscript, flutter.
+- 👯 I’m looking to get into a crew member on Developing Sector.
+- 📫 How to reach me: Sivakavineshnattudurai@gmail.com
+- ⚡ upskilling and building as same as 
 
 ## 🛠️ Technologies & Tools
 
@@ -18,19 +18,17 @@ Welcome to my GitHub profile! I'm a passionate on new stuffs with a keen interes
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sivakavinesh&show_icons=true&theme=radical)
 
 ## 🌟 Featured Projects
 
 Here are some of my favorite projects:
 
-- **[Project Name 1](https://github.com/YourGitHubUsername/Project1)**: A brief description of what this project does.
-- **[Project Name 2](https://github.com/YourGitHubUsername/Project2)**: A brief description of what this project does.
-- **[Project Name 3](https://github.com/YourGitHubUsername/Project3)**: A brief description of what this project does.
+- I got one or two repos, managing to complete them as i planned.
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/sivakavinesh-n)
+- [LinkedIn](https://www.linkedin.com/in/who-is-sivakavinesh-n/)
 
 
 ## 🎉 Thank You for Visiting!
