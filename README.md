@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate on new stuffs and learning some n
 - 🌱 Future Goals to learn MERN, typerscript, flutter.
 - 👯 I’m looking to get into a crew member on Developing Sector.
 - 📫 How to reach me: Sivakavineshnattudurai@gmail.com
-- ⚡ upskilling and building as same as 
+- ⚡ upskilling and building
 
 ## 🛠️ Technologies & Tools
 
@@ -17,13 +17,13 @@ Welcome to my GitHub profile! I'm a passionate on new stuffs and learning some n
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sivakavinesh&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sivakavineshnattudurai&show_icons=true&theme=radical)
 
 ## 🌟 Featured Projects
 
-Here are some of my favorite projects:
+## projects:
 
-- I got one or two repos, managing to complete them as i planned.
+- I got one or two repos, and managing them to complete as i planned, soon they will be under sight.
 
 ## 📫 Connect with Me
 
